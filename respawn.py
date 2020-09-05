@@ -3,7 +3,6 @@
 """
 
 from subprocess import Popen, PIPE, STDOUT
-# from analysis.upload_openstreetmap import BASE_DIR
 from datetime import datetime
 import sys
 
